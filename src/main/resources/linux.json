@@ -1,0 +1,12 @@
+{
+  "Variables": {
+    "Linux": {
+      "Host": "host",
+      "Password": "parola"
+    },
+    "Alpr": {
+      "Configuration": "Conf",
+      "Path": "cararea"
+    }
+  }
+}
